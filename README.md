@@ -9,6 +9,7 @@ My first projects were simple games on C++, then I got interested in web and sta
 * 🧠  I'm learning PostgreSQL, Node.js
 * 🤝  I'm open to collaborating on any interesting project or startup
 * 🎓  Took Harvard CS50x
+* 💪  Know how to exit Vim
 
 ### Skills
 
