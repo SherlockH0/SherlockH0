@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---------------------------------------
 I really love math, programming, and physics. It's always interesting to discover and create something new.
 My first projects were simple games on C++, then I got interested in web and started learning HTML, CSS, python and Django.
-* 🖥️  See my portfolio at [homepage](http://sherlockh0.github.io/homepage/)
+* 🖥️  See my portfolio at [homepage](https://sherlockh0.github.io/portfolio/)
 * ✉️  You can contact me at [ddmlf7@gmail.com](mailto:ddmlf7@gmail.com)
 * 🧠  I'm learning PostgreSQL, Node.js
 * 🤝  I'm open to collaborating on any interesting project or startup
