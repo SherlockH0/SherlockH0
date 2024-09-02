@@ -5,7 +5,7 @@ I really love to engage in math, music, baking, and coding.<br>
 In my free time, I try to learn or create something new to make myself and the world around me better.
 
 [My portfolio](https://portfolio-six-phi-18.vercel.app/)<br>
-[Get in touch](mailto:daniil.davtian@gmail.com)
+[Get in touch](https://portfolio-six-phi-18.vercel.app/#contact)
 
 <p align="left"> 
   <a href="https://www.codepen.io/nfnbzqzf-the-sasster" target="_blank" rel="noreferrer"> 
