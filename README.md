@@ -1,5 +1,5 @@
-# Hi! I’m Daniil Davtian.
-A lazy programmer and linux enthusiast.
+# Hi! I’m Daniil Davtian. 
+☕ A lazy programmer and linux enthusiast. 
 
 (i use arch, _btw_)
 
