@@ -1,4 +1,4 @@
-- ☕ A lazy coder,
+- ☕ A lazy programmer,
 - 🐧 linux enthusiast (i use arch, _btw_),
 - 🎮 and sometimes a game developer
 
